@@ -16,7 +16,11 @@ I’m also a Linux system administrator.
   <img src="https://dries.xyz/assets/img/programs/vue.png" width="50px">
   <img src="https://dries.xyz/assets/img/programs/bootstrap.png" width="50px">
   <img src="https://dries.xyz/assets/img/programs/nginx.png" width="50px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px">
+  <img src="https://dries.xyz/assets/img/programs/react.png" width="50px">
+  $<img src="https://dries.xyz/assets/img/programs/webpack.png" width="50px">
+  <img src="https://dries.xyz/assets/img/programs/redis.png" width="50px">
+  <img src="https://dries.xyz/assets/img/programs/fastify.png" width="50px">
+  <img src="https://dries.xyz/assets/img/programs/socketio.png" width="50px">
 </p>
 <h1>Want to hire me?</h1>
 
