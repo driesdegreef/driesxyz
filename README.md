@@ -7,9 +7,6 @@ I’m also a Linux system administrator.
 <h1>Programs & Technologies I use</h1>
 <p float="left">
   <img src="https://dries.xyz/assets/img/programs/vsc.png" width="50px">
-  <img src="https://dries.xyz/assets/img/programs/figma.png" width="50px">
-  <img src="https://dries.xyz/assets/img/programs/xd.png" width="50px">
-  <img src="https://dries.xyz/assets/img/programs/ai.png" width="50px">
   <img src="https://dries.xyz/assets/img/programs/ps.png" width="50px">
   <img src="https://dries.xyz/assets/img/programs/laravel.png" width="50px">
   <img src="https://dries.xyz/assets/img/programs/nestjs.svg" width="50px">
