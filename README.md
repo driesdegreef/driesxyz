@@ -21,6 +21,6 @@ I’m also a Linux system administrator.
 <h1>Want to hire me?</h1>
 
 - Twitter: [@dries_xyz](https://twitter.com/dries_xyz)
-- Discord: Dries#9999
+- Discord: Dries#0001
 - Website: [dries.xyz](https://dries.xyz)
 - Mail: contact@dries.xyz
