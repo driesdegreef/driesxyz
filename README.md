@@ -20,7 +20,7 @@ I’m also a Linux system administrator.
 </p>
 <h1>Want to hire me?</h1>
 
-- Twitter: [@dries_xyz](https://twitter.com/dries_xyz)
+- Twitter: [@driesxyz](https://twitter.com/driesxyz)
 - Discord: Dries#0001
 - Website: [dries.xyz](https://dries.xyz)
 - Mail: contact@dries.xyz
