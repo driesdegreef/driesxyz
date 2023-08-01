@@ -5,6 +5,6 @@
 <h1>Contact</h1>
 
 - Twitter: [@driesxyz](https://twitter.com/driesxyz)
-- Discord: Dries#0001
+- Discord: driesxyz
 - Website: [dries.xyz](https://dries.xyz)
 - Mail: contact@dries.xyz
